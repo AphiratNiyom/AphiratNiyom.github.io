@@ -4,7 +4,8 @@
 
 สำหรับรายวิชา [OOP](https://aphiratniyom.github.io/) 
 
-![download banner](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg/1200px-1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg)
+![download banner](![mazda-rx-7-fd](https://github.com/AphiratNiyom/AphiratNiyom.github.io/assets/159915745/454d22d1-e85f-421d-869a-d0c73e586734)
+)
 
 ## คำสั่ง git พื้นฐาน
 
