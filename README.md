@@ -2,7 +2,7 @@
 
 # สมุดบันทึก
 
-สำหรับรายวิชา [OOP](https://wichit2s.github.io) 
+สำหรับรายวิชา [OOP](https://aphiratniyom.github.io/) 
 
 ![download banner](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg/1200px-1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg)
 
