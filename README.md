@@ -2,7 +2,7 @@
 
 # สมุดบันทึก
 
-สำหรับรายวิชา [OOP](https://aphiratniyom.github.io/) 
+สำหรับรายวิชา OOP
 
 ![download banner](https://cdn.motor1.com/images/mgl/6xWp7/s3/mazda-rx-7-fd.jpg)
 
