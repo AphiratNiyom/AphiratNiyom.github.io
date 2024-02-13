@@ -4,8 +4,7 @@
 
 สำหรับรายวิชา [OOP](https://aphiratniyom.github.io/) 
 
-![download banner](![mazda-rx-7-fd](https://github.com/AphiratNiyom/AphiratNiyom.github.io/assets/159915745/454d22d1-e85f-421d-869a-d0c73e586734)
-)
+![download banner](https://cdn.motor1.com/images/mgl/6xWp7/s3/mazda-rx-7-fd.jpg)
 
 ## คำสั่ง git พื้นฐาน
 
