@@ -1,10 +1,10 @@
-![banner](https://www.motortrend.com/uploads/f/167208605.jpg?fit=around%7C875:492)
+![banner](https://hips.hearstapps.com/hmg-prod/images/v12-rx7-2-1668441540.jpg?crop=0.566xw:1.00xh;0.214xw,0&resize=640:*)
 
 # สมุดบันทึก
 
 สำหรับรายวิชา [OOP](https://wichit2s.github.io) 
 
-![download banner]([./banner.jpg](https://img5.icarcdn.com/45372/main-m_mazda-rx7-rotary-engine_1999-mazda-rx-7.jpg)
+![download banner](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg/1200px-1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg)
 
 ## คำสั่ง git พื้นฐาน
 
@@ -45,4 +45,4 @@ for k,v in d.items():
    pip install streamlit
 
 
-นินา สมบัติ
+อภิรัตน์ นิยม
